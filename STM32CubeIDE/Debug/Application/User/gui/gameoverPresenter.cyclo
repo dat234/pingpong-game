@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/gameover_screen/gameoverPresenter.hpp:28:13:gameoverPresenter::~gameoverPresenter()	1
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/gameover_screen/gameoverPresenter.cpp:10:6:virtual void gameoverPresenter::activate()	1
+../../TouchGFX/gui/include/gui/gameover_screen/gameoverPresenter.hpp:28:13:virtual gameoverPresenter::~gameoverPresenter()	1
+../../TouchGFX/gui/include/gui/gameover_screen/gameoverPresenter.hpp:28:13:virtual void* gameoverPresenter::_ZThn4_N17gameoverPresenterD1Ev()	1
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/gameover_screen/gameoverPresenter.cpp:4:1:gameoverPresenter::gameoverPresenter(gameoverView&)	1

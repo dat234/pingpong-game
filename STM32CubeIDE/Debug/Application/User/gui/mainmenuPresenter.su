@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/mainmenu_screen/mainmenuPresenter.hpp:28:13:mainmenuPresenter::~mainmenuPresenter()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/mainmenu_screen/mainmenuPresenter.cpp:10:6:virtual void mainmenuPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/mainmenu_screen/mainmenuPresenter.hpp:28:13:virtual mainmenuPresenter::~mainmenuPresenter()	8	static
+../../TouchGFX/gui/include/gui/mainmenu_screen/mainmenuPresenter.hpp:28:13:virtual void* mainmenuPresenter::_ZThn4_N17mainmenuPresenterD1Ev()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/mainmenu_screen/mainmenuPresenter.cpp:4:1:mainmenuPresenter::mainmenuPresenter(mainmenuView&)	0	static

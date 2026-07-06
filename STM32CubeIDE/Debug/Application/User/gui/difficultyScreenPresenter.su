@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/difficultyscreen_screen/difficultyScreenPresenter.hpp:28:13:difficultyScreenPresenter::~difficultyScreenPresenter()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenPresenter.cpp:10:6:virtual void difficultyScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/difficultyscreen_screen/difficultyScreenPresenter.hpp:28:13:virtual difficultyScreenPresenter::~difficultyScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/difficultyscreen_screen/difficultyScreenPresenter.hpp:28:13:virtual void* difficultyScreenPresenter::_ZThn4_N25difficultyScreenPresenterD1Ev()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenPresenter.cpp:4:1:difficultyScreenPresenter::difficultyScreenPresenter(difficultyScreenView&)	0	static

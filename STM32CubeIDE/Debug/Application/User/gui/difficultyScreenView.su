@@ -1,0 +1,10 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:13:6:virtual void difficultyScreenView::tearDownScreen()	0	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:17:6:virtual void difficultyScreenView::playEasy()	8	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:23:6:virtual void difficultyScreenView::playNormal()	8	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:29:6:virtual void difficultyScreenView::playHard()	8	static
+../../TouchGFX/gui/include/gui/difficultyscreen_screen/difficultyScreenView.hpp:11:13:difficultyScreenView::~difficultyScreenView()	8	static
+../../TouchGFX/gui/include/gui/difficultyscreen_screen/difficultyScreenView.hpp:11:13:virtual difficultyScreenView::~difficultyScreenView()	8	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:3:1:difficultyScreenView::difficultyScreenView()	8	static
+C:/TouchGFXProjects/pinpo/TouchGFX/gui/src/difficultyscreen_screen/difficultyScreenView.cpp:8:6:virtual void difficultyScreenView::setupScreen()	0	static

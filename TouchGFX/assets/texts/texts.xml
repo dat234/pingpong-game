@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_IVMO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">MENU</Translation>
+      </Text>
+      <Text Id="__SingleUse_K097" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">REPLAY</Translation>
+      </Text>
+      <Text Id="__SingleUse_V3LX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">YOU WIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_EBFD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BOSX" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_0J5N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_KHM5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0VKL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_A2FM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A40F" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_PTLT" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">HARD</Translation>
+      </Text>
+      <Text Id="__SingleUse_RCQF" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">NORMAL&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JD1V" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">EASY&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9LTB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">SELECT LEVEL</Translation>
+      </Text>
+      <Text Id="__SingleUse_ECET" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Play</Translation>
+      </Text>
+      <Text Id="__SingleUse_2FTQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">PING PONG</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
